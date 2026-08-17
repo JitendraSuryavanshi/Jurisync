@@ -1,13 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="jurisync.online" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/0ef2725a-c1b2-45de-8b61-635d9f5b8fb4
-
+View your app in AI Studio: jurisync.online
 ## Run Locally
 
 **Prerequisites:**  Node.js
