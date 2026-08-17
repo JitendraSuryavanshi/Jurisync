@@ -1,0 +1,6 @@
+{
+  "name": "Jurisync Online - Legal & Compliance Marketplace",
+  "description": "India's trusted online legal, tax, MCA, and compliance marketplace powered by certified CS, CA, and Advocates. Incorporated as Jurisync LLP (LLPIN ACQ-7658).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
