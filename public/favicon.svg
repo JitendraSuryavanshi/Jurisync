@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Jurisync icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#103a73"/>
+      <stop offset="1" stop-color="#2d7ff9"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#g)"/>
+  <path d="M22 19h22v6H35v20.5c0 2.5-1 4.6-2.9 6.4-1.9 1.7-4.2 2.6-6.9 2.6-2.7 0-5-.9-6.9-2.8l4.5-4.4c.7.8 1.5 1.2 2.4 1.2s1.7-.3 2.3-1c.6-.6 1-1.4 1-2.3V25h-6.5z" fill="#fff"/>
+</svg>
